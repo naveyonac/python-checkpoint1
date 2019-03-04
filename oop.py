@@ -18,7 +18,8 @@
 # Your Vehicle class should take one argument (a `dict`) with the above
 # attributes. Define the properties on the class from the dict that is passed in.
 
-
+class Vehicle:
+    
 
 # #2: Create a Motorcycle class that inherits from the Vehicle class and has the
 # following properties and methods:
